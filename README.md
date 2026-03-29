@@ -41,3 +41,5 @@ This project helped me understand:
 * Designing levels with tilemaps & tilesets
 * Basic enemy interactions
 * Structuring a simple but complete game loop
+
+<img width="2459" height="1483" alt="image" src="https://github.com/user-attachments/assets/440f0126-cd30-4284-ab58-b19e7e59f278" />
